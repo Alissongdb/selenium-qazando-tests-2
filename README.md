@@ -1,4 +1,2 @@
-
-# SeleniumWebdriverQazando
-
-Projeto de Selenium Webdriver e Java da qazando.
+# QAzando Web Test Automation 2
+Projeto de automação de testes web, com Selenium WebDriver + Java
